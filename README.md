@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Prachi Gangwar 👋
 
-<!--
-**prachi068/prachi068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | B.Tech Computer Science
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science graduate interested in software development, problem-solving, and building practical applications.
+
+- 🎓 B.Tech in Computer Science
+- 💻 Learning software development and building projects
+- 🌱 Practicing Java, JavaScript, React, Node.js and SQL
+- 🎯 Goal: To grow as a Software Developer
+
+### 🛠️ Technologies I'm Learning
+
+- **Languages:** Java, JavaScript, SQL
+- **Frontend:** HTML, CSS, React, Next.js
+- **Backend:** Node.js, REST APIs
+- **Database:** MySQL, PostgreSQL
+- **Tools:** Git, GitHub, VS Code
+
+### 📌 My Projects
+
+- Employee Management System
+- Hospital Management System
+- Java Programming Practice
+
+*Project links will be added as the repositories become available.*
+
+### 🤝 Connect With Me
+
+- LinkedIn: linkedin.com/in/prachi-gangwar-cs
+
+⭐ Thanks for visiting my profile!

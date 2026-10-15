@@ -21,6 +21,7 @@ I'm a Computer Science graduate interested in software development, problem-solv
 
 ### 📌 My Projects
 
+- Smart Task Management System 
 - Employee Management System
 - Hospital Management System
 - Java Programming Practice
